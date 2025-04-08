@@ -1,0 +1,8 @@
+export default function App() {
+  return (
+    <div className="min-h-screen bg-gray-900 text-white flex flex-col items-center justify-center">
+      <h1 className="text-4xl font-bold mb-4">스포챌린지</h1>
+      <p className="text-lg">실시간 경기, 라이브 스코어, AI 베팅 시스템</p>
+    </div>
+  );
+}
